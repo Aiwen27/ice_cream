@@ -1,0 +1,48 @@
+.titulo1 {
+    font-size: 100px;
+}
+
+.titulo2 {
+    font-size: 35px;
+}
+
+.titulo3 {
+    font-size: 30px;
+}
+
+.titulo4 {
+    font-size: 50px;
+}
+
+/*fondos*/
+
+.fondo1 { 
+    background-color: #2ab8ac;
+}
+
+.fondo2 { 
+    background-color: #ffab52;
+}
+
+.fondo3 { 
+    background-color: #9c55a5;
+}
+
+.fondo4 { 
+    background-color: #cce033;
+}
+
+.fondo5 { 
+    background-color: #57cadd;
+}
+
+.fondo6 { 
+    background-color: #fff68d;
+}
+
+.fondo7 { 
+    background-color: #cdff00;
+}
+.container-fluid {
+    padding: 80px 80px;
+    }
